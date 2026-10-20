@@ -1,3 +1,5 @@
+> **Deprecated.** This workflow is no longer maintained. It will not get further fixes or releases, and it is not part of the Node workflow set. The usage notes below are kept so current users can still read them.
+
 # Alfred Image Shrinker
 Shrinks an image by reducing size of the longest side and optimize the color of the image for sharing.
 
